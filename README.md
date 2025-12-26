@@ -217,17 +217,17 @@ The implementation includes Polars integration for large-scale processing:
 
 ```
 deeter-interview/
-├── .vscode/
-│   ├── settings.json       # VSCode Python/Jupyter settings
-│   ├── extensions.json     # Recommended extensions
-│   └── launch.json         # Debug configurations
-├── API.py                  # DataAPI and TimeSeriesAPI implementations
-├── Interview.ipynb         # Complete Jupyter notebook with all tasks
-├── README.md               # This documentation file
-├── Deeter_Interview_Prep.md    # Deep-dive interview preparation
-├── Interview_Cheat_Sheet.md    # Quick reference cheat sheet
-├── requirements.txt        # Python dependencies
-└── setup.sh               # Environment setup script
+ .vscode/
+    settings.json       # VSCode Python/Jupyter settings
+    extensions.json     # Recommended extensions
+    launch.json         # Debug configurations
+ API.py                  # DataAPI and TimeSeriesAPI implementations
+ Interview.ipynb         # Complete Jupyter notebook with all tasks
+ README.md               # This documentation file
+ Deeter_Interview_Prep.md    # Deep-dive interview preparation
+ Interview_Cheat_Sheet.md    # Quick reference cheat sheet
+ requirements.txt        # Python dependencies
+ setup.sh               # Environment setup script
 ```
 
 ---
